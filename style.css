@@ -1,0 +1,18 @@
+*{
+    margin: 0%;
+    padding: 0;
+}
+.container-fluid img{
+     height: 60px;
+     width: 60px;
+}
+.text-center img{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    
+}
+.projects :hover{
+    opacity: 1.5;
+    transform: scale(0.98);
+}
